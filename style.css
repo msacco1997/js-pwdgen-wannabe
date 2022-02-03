@@ -9,12 +9,9 @@ header{
     margin: 3em;
 }
 
-
 #intro{
     padding-top: 4em;
 }
-
-
 
 .wrapper{
     max-width: 888px;
@@ -28,6 +25,5 @@ header{
     font-size: 35px;
     border: darkred dashed 10px;
     border-radius: 999px;
-    max-width: 444px;
-    
+    max-width: 444px; 
 }
