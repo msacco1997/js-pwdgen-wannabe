@@ -1,17 +1,17 @@
-let userName = prompt("Insert here your NAME...");
+const userName = prompt("Insert here your NAME...");
 
-console.log(userName)
+//console.log(userName)
 
-let userSurname = prompt("Insert here your SURNAME...");
+const userSurname = prompt("Insert here your SURNAME...");
 
-console.log(userSurname)
+//console.log(userSurname)
 
-let userColor = prompt("Insert here you favorite COLOR...");
+const userColor = prompt("Insert here you favorite COLOR...");
 
-console.log(userColor)
+//console.log(userColor)
 
-let userPass = (userName) + (userSurname) + (userColor) + "21";
+const userPass = (userName) + (userSurname) + (userColor) + "21";
 
-console.log(userPass)
+//console.log(userPass)
 
-document.getElementById(password).innerHTML += (userPass);
+document.getElementById("password").innerHTML += (userPass);

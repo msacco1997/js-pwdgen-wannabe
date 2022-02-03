@@ -6,11 +6,28 @@
 }
 
 header{
-    
-    padding-top: 6em;
+    margin: 3em;
 }
 
 
 #intro{
     padding-top: 4em;
+}
+
+
+
+.wrapper{
+    max-width: 888px;
+    border: 10px solid black;
+}
+
+#password{
+    margin-top: 4em;
+    margin-bottom: 4em;
+    padding: 40px; 
+    font-size: 35px;
+    border: darkred dashed 10px;
+    border-radius: 999px;
+    max-width: 444px;
+    
 }
